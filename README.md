@@ -1,1 +1,2 @@
-# projectCS251timesquare
+# Project timesquare (CS251)
+
